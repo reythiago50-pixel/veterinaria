@@ -1,5 +1,5 @@
 
-package entity;
+package com.example.spring02.entity;
 
 import jakarta.persistence.*;
         import java.util.ArrayList;
